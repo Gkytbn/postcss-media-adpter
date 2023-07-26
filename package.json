@@ -1,0 +1,31 @@
+{
+  "name": "postcss-media-adpter",
+  "version": "1.0.0",
+  "description": "postcss-media-adpter for vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "postcss-plugin",
+    "media-adpter"
+  ],
+  "author": "gkbn",
+  "author": {
+    "name" : "gkbn",
+    "email" : "1040841994@qq.com",
+    "url" : "https://github.com/Gkytbn/postcss-media-adpter.git"
+  },
+
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.4",
+    "extend": "^3.0.2",
+    "postcss": "^5.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.3.1",
+    "mocha": "^5.2.0",
+    "rollup": "^2.79.1"
+  }
+}
